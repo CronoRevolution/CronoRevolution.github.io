@@ -1,1 +1,8 @@
-[]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.cronorevolution.juez",
+        "sha256_cert_fingerprints": ["E6:41:4C:98:5B:2A:42:34:BC:DA:52:15:EA:C3:12:F7:91:BD:72:F8:DB:48:0E:4E:89:13:09:6B:0E:80:30:C1"]
+      }
+    }]
